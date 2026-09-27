@@ -1,0 +1,14 @@
+body{color: rgb(88, 20, 133);}
+body{font-family: Georgia, 'Times New Roman', Times, serif;}
+body{background-color: bisque;}
+
+
+
+#one {
+  color: rgb(0, 102, 255);
+  font-size: 18px;}
+
+  .two {
+  color: rgb(255, 0, 170);
+  font-weight: bold;
+}
